@@ -8,6 +8,10 @@
   },
   "author": "stephen",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangdistephen/vue-progressive-img"
+  },
   "keywords": [
     "progressive",
     "vue-progressive-img",
