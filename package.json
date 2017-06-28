@@ -1,0 +1,17 @@
+{
+  "name": "vue-progressive-img",
+  "version": "0.1.2",
+  "description": "A component provides progressive image like Medium and Zhihu",
+  "main": "src/main.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stephen",
+  "license": "MIT",
+  "keywords": [
+    "progressive",
+    "vue-progressive-img",
+    "vue-progressive",
+    "vue-lazy-img"
+  ]
+}
