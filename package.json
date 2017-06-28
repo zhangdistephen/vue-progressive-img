@@ -1,6 +1,6 @@
 {
   "name": "vue-progressive-img",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A component provides progressive image like Medium and Zhihu",
   "main": "src/main.vue",
   "scripts": {
